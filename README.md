@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KNOWA
 - 👀 I’m interested in evolution,technology and novels.
 - 🌱 I’m currently learning DSA in C++.
-- ⚡ Fun fact: I AM A HUMAN ?
+- ⚡ Fun fact: I AM A ALIVE.
 
 <!---
 KNOWA0/KNOWA0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
